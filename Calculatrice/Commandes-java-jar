@@ -1,0 +1,5 @@
+jar cmf META-INF/MANIFEST.MF toto.jar Toto.class        
+java -jar toto.jar    
+
+
+jar cf toto.jar Toto.class      
