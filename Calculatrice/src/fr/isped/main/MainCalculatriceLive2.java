@@ -2,10 +2,6 @@ package fr.isped.main;
 
 import fr.isped.calculatrice.CalculatriceLive;
 
-jslkdhfkuhdflskhalskdhflsahdflkashdflkashdfkybdfsadfasd
-gsagas
-dg
-sdafas
 
 public class MainCalculatriceLive2 {
 
